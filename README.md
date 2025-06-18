@@ -57,7 +57,7 @@
 
 ### Решение 2
 
-[haproxy.cfg с балансировкой на 7 уровне и доменом example.local](/haproxy.cfg)
+[haproxy.cfg с балансировкой на 7 уровне и доменом example.local](2/haproxy.cfg)
 
 ![Решение 1](https://github.com/noisy441/haproxy/blob/main/img/img2.png)
 
