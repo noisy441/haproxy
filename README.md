@@ -43,6 +43,10 @@
 
 ### Решение 1
 
+[haproxy.cfg с балансировкой на 4 уровне](1/haproxy.cfg)
+
+![Решение 1](https://github.com/noisy441/haproxy/blob/main/img/img1.png)
+
 ---
 
 ### Задание 2
@@ -52,6 +56,10 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 ### Решение 2
+
+[haproxy.cfg с балансировкой на 7 уровне и доменом example.local](/haproxy.cfg)
+
+![Решение 1](https://github.com/noisy441/haproxy/blob/main/img/img2.png)
 
 ---
 
